@@ -7,7 +7,7 @@ For this lab, you will be expected to complete the following methods:
 - displayLine()
 - openBook()
 
-For instructions on completing these methods, see the Javadoc here **ADD LINK HERE**
+For instructions on completing these methods, see the [Javadoc](https://csu-compsci-cs163-4.github.io/Lab09BrokenEReader/).
 When working with your code for this lab, make sure the main method stays the same as it does in the provided copy. The Zybooks tests will test some input, and expects the main to look as it does when you get it.
 
 # Step 2 -- Testing
